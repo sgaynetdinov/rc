@@ -1,0 +1,7 @@
+user.name=Sergey Gaynetdinov
+user.email=sergey@gaynetdinov.ru
+user.signingkey=D195EB3BA6949B76
+commit.gpgsign=true
+gpg.program=gpg
+core.autocrlf=input
+core.excludesfile=/Users/sergey/.gitignore_global
