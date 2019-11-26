@@ -1,5 +1,5 @@
 ## Apps
-- 1Password
+- [1Password](https://1password.com/)
 - Chrome
 - DropBox
 - Etcher
