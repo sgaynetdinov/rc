@@ -56,6 +56,7 @@
 - defaults write com.apple.screencapture location ~/Downloads && killall SystemUIServer // folder saved screenshot
 
 ## See
-- https://github.com/nnja/new-computer/blob/master/README.md
+- https://github.com/nnja/new-computer
 - https://sourabhbajaj.com/mac-setup/
 - https://github.com/kevinSuttle/macOS-Defaults
+- https://github.com/dikiaap/dotfiles
