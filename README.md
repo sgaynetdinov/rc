@@ -37,6 +37,7 @@
 
 - brew install git
 - brew install hub
+- brew install [bat](https://github.com/sharkdp/bat)
 
 ## Python
 - brew install pyenv
