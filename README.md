@@ -51,9 +51,10 @@
 ## MacOS
 
 ### ScreenShot
-* defaults write com.apple.screencapture type jpg && killall SystemUIServer // filetype by jpg
-* defaults write com.apple.screencapture disable-shadow -bool true && killall SystemUIServer // disable shadow
-* defaults write com.apple.screencapture location ~/Documents/Screenshots && killall SystemUIServer // folder saved screenshot
+- defaults write com.apple.screencapture type jpg && killall SystemUIServer // filetype by jpg
+- defaults write com.apple.screencapture disable-shadow -bool true && killall SystemUIServer // disable shadow
+- defaults write com.apple.screencapture location ~/Documents/Screenshots && killall SystemUIServer // folder saved screenshot
 
 ## See
 - https://github.com/nnja/new-computer/blob/master/README.md
+- https://sourabhbajaj.com/mac-setup/
