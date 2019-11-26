@@ -1,3 +1,4 @@
+".zshrc" 32L, 560C written                                                                                                                                      23,48         All
 #####################
 #       ALIAS       #
 #####################
@@ -20,7 +21,7 @@ alias lla='ls -pla'
 # Git
 autoload -Uz vcs_info
 precmd() { vcs_info }
-zstyle ':vcs_info:git:*' formats '%F{yellow}%b%f '
+zstyle ':vcs_info:git:*' formats '%F{yellow}(%b)%f '
 setopt PROMPT_SUBST
 
 PROMPT='%~ ${vcs_info_msg_0_}'
