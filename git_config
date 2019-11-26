@@ -4,4 +4,4 @@ user.signingkey=D195EB3BA6949B76
 commit.gpgsign=true
 gpg.program=gpg
 core.autocrlf=input
-core.excludesfile=/Users/sergey/.gitignore_global
+core.excludesfile=~/.gitignore_global
