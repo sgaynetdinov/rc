@@ -46,10 +46,9 @@
 ## Golang
 - brew install golangci/tap/golangci-lint
 
-## See
-- https://github.com/nnja/new-computer/blob/master/README.md
-
-`git config --global core.excludesfile ~/.gitignore_global`
+## Git
+- [Config](https://github.com/sgaynetdinov/rc/blob/master/git_config)
+- git config --global core.excludesfile ~/[.gitignore_global](https://github.com/sgaynetdinov/rc/blob/master/.gitignore_global)
 
 
 ## MacOS
@@ -58,3 +57,6 @@
 * defaults write com.apple.screencapture type jpg && killall SystemUIServer // filetype by jpg
 * defaults write com.apple.screencapture disable-shadow -bool true && killall SystemUIServer // disable shadow
 * defaults write com.apple.screencapture location ~/Documents/Screenshots && killall SystemUIServer // folder saved screenshot
+
+## See
+- https://github.com/nnja/new-computer/blob/master/README.md
