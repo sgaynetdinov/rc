@@ -29,14 +29,9 @@
 
 ## CLI
 - xcode-select --install
-
 - [Brew](https://brew.sh/)
-
 - brew install tree
 - brew install vim
-
-- brew install [git](https://git-scm.com/)
-- brew install [hub](https://github.com/github/hub)
 - brew install [bat](https://github.com/sharkdp/bat)
 
 ## Python
@@ -47,6 +42,8 @@
 - brew install golangci/tap/golangci-lint
 
 ## Git
+- brew install [git](https://git-scm.com/)
+- brew install [hub](https://github.com/github/hub)
 - [Config](https://github.com/sgaynetdinov/rc/blob/master/git_config)
 - git config --global core.excludesfile ~/[.gitignore_global](https://github.com/sgaynetdinov/rc/blob/master/.gitignore_global)
 
