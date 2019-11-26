@@ -36,9 +36,11 @@
 - brew install git
 - brew install hub
 
+## Python
 - brew install pyenv
 - brew install pipenv
 
+## Golang
 - brew install golangci/tap/golangci-lint
 
 ## See
