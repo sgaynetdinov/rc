@@ -1,6 +1,3 @@
-eval "$(pyenv init -)"
-
-alias git='LC_ALL=en_GB hub'
 alias grep='grep --color=auto'
 alias cat='bat'
 
@@ -12,6 +9,8 @@ alias lla='ls -pla'
 
 alias vi='vim'
 
-alias git=hub
+eval "$(pyenv init -)"
+
+alias git='LC_ALL=en_GB hub'
 
 PROMPT='%~ '
