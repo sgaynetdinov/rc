@@ -35,8 +35,8 @@
 - brew install tree
 - brew install vim
 
-- brew install git
-- brew install hub
+- brew install [git](https://git-scm.com/)
+- brew install [hub](https://github.com/github/hub)
 - brew install [bat](https://github.com/sharkdp/bat)
 
 ## Python
