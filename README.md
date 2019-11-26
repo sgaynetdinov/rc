@@ -30,6 +30,8 @@
 ## CLI
 - xcode-select --install
 
+- [Brew](https://brew.sh/)
+
 - brew install tree
 - brew install vim
 
