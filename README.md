@@ -45,7 +45,7 @@
 - brew install [git](https://git-scm.com/)
 - brew install [hub](https://github.com/github/hub)
 - touch ~/[.gitignore_global](https://github.com/sgaynetdinov/rc/blob/master/.gitignore_global)
-- [git config](https://github.com/sgaynetdinov/rc/blob/master/git_config)
+- [git config global](https://github.com/sgaynetdinov/rc/blob/master/git_config_global.ini)
 
 
 ## MacOS
