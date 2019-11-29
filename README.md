@@ -14,6 +14,7 @@
 - Skype
 - Slack
 - Zoom
+- [Keybase](https://keybase.io/sgaynetdinov)
 
 ## Develop Tools
 - Atom
