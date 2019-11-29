@@ -5,7 +5,6 @@ filetype off                  " required
 " set the runtime path to include Vundle and initialize
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
-
 " alternatively, pass a path where Vundle should install plugins
 "call vundle#begin('~/some/path/here')
 
@@ -13,7 +12,7 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 
 " Plugin
-Plugin 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
+Plugin 'fatih/vim-go'
 Plugin 'scrooloose/nerdtree'
 Plugin 'airblade/vim-gitgutter'
 
@@ -28,9 +27,10 @@ map <C-n> :NERDTreeToggle<CR>
 let $LANG='en'
 set langmenu=en
 set encoding=utf-8
+set fileencoding=utf-8
 
 " Enable syntax highlighting
-syntax on  
+syntax on 
 
 " Display line number 
 set number
