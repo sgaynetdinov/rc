@@ -1,10 +1,23 @@
 #####################
-#       ALIAS       #
+#       LOCALE      #
+#####################
+export LANG="en_US.UTF-8"
+export LC_CTYPE="en_US.UTF-8"
+export LC_COLLATE="C"
+export LC_TIME="C"
+export LC_NUMERIC="C"
+export LC_MONETARY="C"
+export LC_MESSAGES="en_US.UTF-8"
+export LC_ALL="" 
+
+
+#####################
+#       ALIAS       # 
 #####################
 alias grep='grep --color=auto'
 alias cat='bat'
 alias vi='vim'
-alias git='LC_ALL=en_GB hub'
+alias git='hub'
 
 alias ls='ls -p'
 alias l='ls'
