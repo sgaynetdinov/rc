@@ -28,6 +28,9 @@
 ## Game
 - Steam
 
+## Fonts
+- [IBM Plex Mono](https://github.com/IBM/plex/tree/master/IBM-Plex-Mono)
+
 ## CLI
 - xcode-select --install
 - [Brew](https://brew.sh/)
