@@ -18,6 +18,7 @@ alias grep='grep --color=auto'
 alias cat='bat'
 alias vi='vim'
 alias git='hub'
+alias tree='tree -L 2'
 
 alias ls='ls -p'
 alias l='ls'
