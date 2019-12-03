@@ -17,7 +17,7 @@
 - [Keybase](https://keybase.io/sgaynetdinov)
 
 ## Develop Tools
-- Atom
+- [Atom](https://atom.io/)
 - Arduino IDE (brew cask install arduion)
 - Connect
 - Docker
