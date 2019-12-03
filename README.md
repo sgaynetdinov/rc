@@ -21,7 +21,6 @@
 - Arduino IDE (brew cask install arduion)
 - Connect
 - Docker
-- Git
 - PyCharm
 - VirtualBox
 
