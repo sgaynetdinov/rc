@@ -62,4 +62,5 @@
 - https://github.com/nnja/new-computer
 - https://sourabhbajaj.com/mac-setup/
 - https://github.com/kevinSuttle/macOS-Defaults
+- http://tips-tricks.k40s.net/mac.html
 - https://github.com/dikiaap/dotfiles
