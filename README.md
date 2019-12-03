@@ -32,7 +32,7 @@
 
 ## CLI
 - xcode-select --install
-- [Brew](https://brew.sh/)
+- install [Homebrew](https://brew.sh/)
 - brew install tree
 - brew install vim
 - brew install [bat](https://github.com/sharkdp/bat)
