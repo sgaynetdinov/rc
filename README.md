@@ -59,7 +59,7 @@
 - defaults write com.apple.screencapture location ~/Downloads && killall SystemUIServer // folder saved screenshot
 
 ### iCloud
-- ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs ~/iCloud
+- ln -s \~/Library/Mobile\ Documents/com\~apple\~CloudDocs ~/iCloud
 
 ## See
 - https://github.com/nnja/new-computer
