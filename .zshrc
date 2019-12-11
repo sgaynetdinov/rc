@@ -14,7 +14,7 @@ export LC_ALL=""
 #####################
 #       ALIAS       # 
 #####################
-alias grep='grep --color=auto'
+alias grep='grep -r --color=auto --exclude-dir={.bzr,CVS,.git,.hg,.svn}'
 alias cat='bat'
 alias vi='vim'
 alias git='hub'
