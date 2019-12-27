@@ -68,3 +68,4 @@
 - http://tips-tricks.k40s.net/mac.html
 - https://github.com/dikiaap/dotfiles
 - https://github.com/bennylope/macbook-configuration
+- https://github.com/sobolevn/dotfiles
