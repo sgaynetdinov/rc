@@ -58,6 +58,9 @@
 - defaults write com.apple.screencapture disable-shadow -bool true && killall SystemUIServer // disable shadow
 - defaults write com.apple.screencapture location ~/Downloads && killall SystemUIServer // folder saved screenshot
 
+### Dock
+- defaults write com.apple.dock tilesize -int 40; killall Dock
+
 ### iCloud
 - ln -s \~/Library/Mobile\ Documents/com\~apple\~CloudDocs ~/iCloud
 
