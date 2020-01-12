@@ -1,14 +1,13 @@
 ## Apps
 - [1Password](https://1password.com/)
-- Chrome
-- DropBox
-- Etcher
+- [Chrome](https://www.google.com/chrome/)
+- [DropBox](https://www.dropbox.com/)
+- [Etcher](https://www.balena.io/etcher/)
 - [Encrypto: Secure Your Files](https://macpaw.com/encrypto)
 - Focus
-- Google
 - [GPG Suite](https://gpgtools.org/)
 - [MacPass](https://macpassapp.org/)
-- Trello
+- [Trello](https://trello.com/en/platforms)
 
 ## Messages
 - Skype
