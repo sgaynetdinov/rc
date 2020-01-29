@@ -36,6 +36,7 @@
 - brew install tree
 - brew install vim
 - brew install [bat](https://github.com/sharkdp/bat)
+- brew install postgresql
 
 ## Python
 - brew install pyenv
