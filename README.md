@@ -4,7 +4,6 @@
 - [DropBox](https://www.dropbox.com/)
 - [Etcher](https://www.balena.io/etcher/)
 - [Encrypto: Secure Your Files](https://macpaw.com/encrypto)
-- Focus
 - [GPG Suite](https://gpgtools.org/)
 - [MacPass](https://macpassapp.org/)
 - [Trello](https://trello.com/en/platforms)
