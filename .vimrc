@@ -55,3 +55,6 @@ set cindent
 
 " OSX stupid backspace fix
 set backspace=indent,eol,start
+
+" Set custom syntax 
+au BufReadPost *.vue set syntax=html
