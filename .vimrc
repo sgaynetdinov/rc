@@ -23,6 +23,7 @@ filetype plugin indent on    " required
 " Vundle End Block
 
 map <C-n> :NERDTreeToggle<CR>
+let NERDTreeIgnore = ['\.pyc$', '__pycache__']
 
 let $LANG='en'
 set langmenu=en
