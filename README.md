@@ -74,3 +74,4 @@
 - https://github.com/bennylope/macbook-configuration
 - https://github.com/sobolevn/dotfiles
 - https://github.com/herrbischoff/awesome-macos-command-line
+- https://gist.github.com/erikh/2260182
