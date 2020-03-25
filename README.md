@@ -20,7 +20,7 @@
 - Connect
 - Docker
 - PyCharm
-- VirtualBox
+- VirtualBox (brew cask install virtualbox)
 
 ## Game
 - Steam
