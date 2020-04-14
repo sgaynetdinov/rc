@@ -70,6 +70,7 @@
 - https://sourabhbajaj.com/mac-setup/
 - https://github.com/kevinSuttle/macOS-Defaults
 - http://tips-tricks.k40s.net/mac.html
+- https://www.lifewire.com/macos-terminal-4774149
 - https://github.com/dikiaap/dotfiles
 - https://github.com/bennylope/macbook-configuration
 - https://github.com/sobolevn/dotfiles
