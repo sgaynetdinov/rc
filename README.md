@@ -77,3 +77,4 @@
 - https://github.com/herrbischoff/awesome-macos-command-line
 - https://gist.github.com/erikh/2260182
 - https://github.com/miripiruni/dotfiles
+- https://github.com/satori/dotrc
