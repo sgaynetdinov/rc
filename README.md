@@ -30,7 +30,7 @@
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
 ## CLI
-- xcode-select --install
+- xcode-select --install  # xcode-select -s /Library/Developer/CommandLineTools
 - install [Homebrew](https://brew.sh/)
 - brew install tree
 - brew install vim
