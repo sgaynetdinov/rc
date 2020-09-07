@@ -65,6 +65,9 @@
 ### iCloud
 - ln -s \~/Library/Mobile\ Documents/com\~apple\~CloudDocs ~/iCloud
 
+### Download image
+- https://support.apple.com/downloads
+
 ## See
 - https://github.com/nnja/new-computer
 - https://sourabhbajaj.com/mac-setup/
