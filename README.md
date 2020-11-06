@@ -27,7 +27,7 @@
 
 ## Fonts
 - [IBM Plex Mono](https://github.com/IBM/plex/tree/master/IBM-Plex-Mono)
-- [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+- [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)
 
 ## CLI
 - xcode-select --install  # xcode-select -s /Library/Developer/CommandLineTools
