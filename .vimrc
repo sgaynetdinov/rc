@@ -35,11 +35,14 @@ syntax on
 
 " Display line number 
 set number
+set cursorline
 
 " Always show current position
 set ruler
 
 " Disable swap files
+set nobackup
+set nowritebackup
 set noswapfile
 
 " Disable automatic newline at end of file

@@ -3,7 +3,6 @@
 - [Chrome](https://www.google.com/chrome/)
 - [DropBox](https://www.dropbox.com/)
 - [Etcher](https://www.balena.io/etcher/)
-- [Encrypto: Secure Your Files](https://macpaw.com/encrypto)
 - [GPG Suite](https://gpgtools.org/)
 - [MacPass](https://macpassapp.org/)
 - [Trello](https://trello.com/en/platforms)
@@ -21,26 +20,39 @@
 - Docker
 - PyCharm
 - VirtualBox (brew cask install virtualbox)
+- [Dash.app](https://kapeli.com/dash) or [Zeal](https://zealdocs.org/)
 
 ## Game
 - Steam
 
 ## Fonts
-- [IBM Plex Mono](https://github.com/IBM/plex/tree/master/IBM-Plex-Mono)
+- [IBM Plex Mono](https://github.com/IBM/plex)
 - [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)
+- [FireCode](https://github.com/tonsky/FiraCode)
 
 ## CLI
 - xcode-select --install  # xcode-select -s /Library/Developer/CommandLineTools
 - install [Homebrew](https://brew.sh/)
 - brew install tree
-- brew install vim
+- brew install vim --with-override-system-vi
+- brew install tmux
 - brew install [bat](https://github.com/sharkdp/bat)
 - brew install postgresql
 - brew install gdal
+- brew install git-delta
+- brew install --cask eul [github](https://github.com/gao-sun/eul)
+- brew install fish [website](https://fishshell.com/)
+- brew install htop
+- brew install smartmontools [smartmontools](https://www.smartmontools.org/)  # Monitor S.M.A.R.T. disk
+- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
+- [asdf-vm](https://github.com/asdf-vm/asdf)
+- [brew install youtube-dl](https://github.com/ytdl-org/youtube-dl/)
+- [fd aka find](https://github.com/sharkdp/fd)
 
 ## Python
 - brew install pyenv
 - brew install pipenv
+- brew install pipx
 
 ## Golang
 - brew install golangci/tap/golangci-lint
@@ -81,3 +93,4 @@
 - https://gist.github.com/erikh/2260182
 - https://github.com/miripiruni/dotfiles
 - https://github.com/satori/dotrc
+- https://github.com/mathiasbynens/dotfiles/blob/main/.macos
