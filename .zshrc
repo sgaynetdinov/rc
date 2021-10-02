@@ -81,4 +81,4 @@ export PATH="$PATH:/Users/sergey/.local/bin"  # pipx
 export PATH="$HOME/.volta/bin:$PATH"  # volta (nodejs)
 export PATH="/usr/local/opt/bzip2/bin:$PATH"
 export PATH="/usr/local/bin:$PATH"
-
+export PATH="$HOME/go/bin:$PATH"

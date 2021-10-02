@@ -29,6 +29,7 @@
 - [IBM Plex Mono](https://github.com/IBM/plex)
 - [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)
 - [FireCode](https://github.com/tonsky/FiraCode)
+- [Iosevka](https://typeof.net/Iosevka/)
 
 ## CLI
 - xcode-select --install  # xcode-select -s /Library/Developer/CommandLineTools
