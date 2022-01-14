@@ -25,39 +25,6 @@
 ## Game
 - Steam
 
-## Fonts
-- [IBM Plex Mono](https://github.com/IBM/plex)
-- [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)
-- [FireCode](https://github.com/tonsky/FiraCode)
-- [Iosevka](https://typeof.net/Iosevka/)
-
-## CLI
-- xcode-select --install  # xcode-select -s /Library/Developer/CommandLineTools
-- install [Homebrew](https://brew.sh/)
-- brew install tree
-- brew install vim --with-override-system-vi
-- brew install tmux
-- brew install [bat](https://github.com/sharkdp/bat)
-- brew install postgresql
-- brew install gdal
-- brew install git-delta
-- brew install --cask eul [github](https://github.com/gao-sun/eul)
-- brew install fish [website](https://fishshell.com/)
-- brew install htop
-- brew install smartmontools [smartmontools](https://www.smartmontools.org/)  # Monitor S.M.A.R.T. disk
-- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
-- [asdf-vm](https://github.com/asdf-vm/asdf)
-- [brew install youtube-dl](https://github.com/ytdl-org/youtube-dl/)
-- [fd aka find](https://github.com/sharkdp/fd)
-
-## Python
-- brew install pyenv
-- brew install pipenv
-- brew install pipx
-
-## Golang
-- brew install golangci/tap/golangci-lint
-
 ## Git
 - brew install [git](https://git-scm.com/)
 - brew install [hub](https://github.com/github/hub)
