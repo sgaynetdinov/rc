@@ -1,26 +1,18 @@
-" Vundle Begin Block
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
-" set the runtime path to include Vundle and initialize
-set rtp+=~/.vim/bundle/Vundle.vim
-call vundle#begin()
-" alternatively, pass a path where Vundle should install plugins
-"call vundle#begin('~/some/path/here')
+" Initialize plugin system
+call plug#begin('~/.vim/plugged')
 
-" let Vundle manage Vundle, required
-Plugin 'VundleVim/Vundle.vim'
+Plug '/opt/homebrew/bin/fzf'
+Plug 'junegunn/fzf'
+Plug 'fatih/vim-go'
+Plug 'scrooloose/nerdtree'
+Plug 'airblade/vim-gitgutter'
 
-" Plugin
-Plugin 'fatih/vim-go'
-Plugin 'scrooloose/nerdtree'
-Plugin 'airblade/vim-gitgutter'
+call plug#end()
 
-" All of your Plugins must be added before the following line
-call vundle#end()            " required
 filetype plugin indent on    " required
-
-" Vundle End Block
 
 map <C-n> :NERDTreeToggle<CR>
 let NERDTreeIgnore = ['\.pyc$', '__pycache__']
@@ -49,11 +41,11 @@ set noswapfile
 set nofixendofline
 
 " Indenting
-set autoindent " always set autoindenting on
+set autoindent   " always set autoindenting on
 set smartindent
-set tabstop=4 " tabs are n spaces
+set tabstop=4    " tabs are n spaces
 set shiftwidth=4 " number of spaces to use for autoindenting
-set expandtab " expand tabs by default (overloadable per file type)
+set expandtab    " expand tabs by default (overloadable per file type)
 set cindent
 
 " OSX stupid backspace fix
