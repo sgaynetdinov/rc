@@ -1,0 +1,13 @@
+### ScreenShot
+- defaults write com.apple.screencapture type jpg // filetype by jpg
+- defaults write com.apple.screencapture disable-shadow -bool true // disable shadow
+- defaults write com.apple.screencapture location ~/Downloads // folder saved screenshot
+
+### Dock
+- defaults write com.apple.dock tilesize -int 40
+
+killall SystemUIServer 
+killall Dock
+
+### iCloud
+- ln -s \~/Library/Mobile\ Documents/com\~apple\~CloudDocs ~/iCloud

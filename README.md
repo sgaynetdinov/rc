@@ -32,22 +32,6 @@
 - [git config --global --edit](https://github.com/sgaynetdinov/rc/blob/master/git_config_global.ini)
 
 
-## MacOS
-
-### ScreenShot
-- defaults write com.apple.screencapture type jpg && killall SystemUIServer // filetype by jpg
-- defaults write com.apple.screencapture disable-shadow -bool true && killall SystemUIServer // disable shadow
-- defaults write com.apple.screencapture location ~/Downloads && killall SystemUIServer // folder saved screenshot
-
-### Dock
-- defaults write com.apple.dock tilesize -int 40; killall Dock
-
-### iCloud
-- ln -s \~/Library/Mobile\ Documents/com\~apple\~CloudDocs ~/iCloud
-
-### Download image
-- https://support.apple.com/downloads
-
 ## See
 - https://github.com/nnja/new-computer
 - https://sourabhbajaj.com/mac-setup/
