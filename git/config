@@ -9,7 +9,7 @@
 [core]
     autocrlf = input
     safecrlf = true
-    excludesfile = ~/.gitignore_global
+    excludesfile = ~/.config/git/gitignore
     quotepath = off
     pager = delta
 [delta]
