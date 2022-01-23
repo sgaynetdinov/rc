@@ -33,6 +33,9 @@ brew "gh"
 # Syntax-highlighting pager for git and diff output
 brew "git-delta"
 
+# Terminal multiplexer
+brew "tmux"
+
 # Vi 'workalike' with many additional features
 brew "vim"
 
