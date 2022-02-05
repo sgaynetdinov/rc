@@ -73,3 +73,4 @@ mas "1Password 7", id: 1333542190
 mas "Slack", id: 803453959
 mas "Tailscale", id: 1475387142
 mas "WireGuard", id: 1451685025
+mas "Magnet", id: 441258766
