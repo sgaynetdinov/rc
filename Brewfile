@@ -39,6 +39,9 @@ brew "tmux"
 # Vi 'workalike' with many additional features
 brew "vim"
 
+# Golang
+brew "go"
+
 # Securely transfers data between computers
 brew "magic-wormhole"
 
