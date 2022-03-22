@@ -69,6 +69,15 @@ cask "visual-studio-code"
 # Web browser
 cask "google-chrome"
 
+# Cloudflare WARP
+cask "cloudflare-warp"
+
+# Brave browser
+cask "brave-browser"
+
+# Tor browser
+cask "tor-browser"
+
 # Mac App Store command-line interface
 brew "mas"
 mas "Xcode", id: 497799835
