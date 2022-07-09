@@ -39,9 +39,6 @@ brew "tmux"
 # Vi 'workalike' with many additional features
 brew "vim"
 
-# Golang
-brew "go"
-
 # Securely transfers data between computers
 brew "magic-wormhole"
 
@@ -68,21 +65,28 @@ cask "visual-studio-code"
 
 # Web browser
 cask "google-chrome"
-
-# Cloudflare WARP
-cask "cloudflare-warp"
-
-# Brave browser
 cask "brave-browser"
-
-# Tor browser
 cask "tor-browser"
+cask "firefox"
+
+# API documentation browser and code snippet manager
+cask "dash"
+
+# Raspberry Pi Imager
+cask "raspberry-pi-imager"
+
+# vlc
+cask "vlc"
 
 # Mac App Store command-line interface
 brew "mas"
-mas "Xcode", id: 497799835
 mas "1Password 7", id: 1333542190
+mas "iMovie", id: 408981434
+mas "Magnet", id: 441258766
+mas "NordVPN", id: 905953485
+mas "Numbers", id: 409203825
+mas "Outline", id: 1356178125
 mas "Slack", id: 803453959
 mas "Tailscale", id: 1475387142
 mas "WireGuard", id: 1451685025
-mas "Magnet", id: 441258766
+mas "Xcode", id: 497799835

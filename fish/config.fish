@@ -17,3 +17,8 @@ end
 
 # start theme startship (install from brew)
 starship init fish | source
+
+
+if type -q tailscale
+    alias tailscale /Applications/Tailscale.app/Contents/MacOS/Tailscale
+end
