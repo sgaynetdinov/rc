@@ -45,6 +45,9 @@ brew "magic-wormhole"
 # GNU Pretty Good Privacy (PGP) package
 brew "gnupg"
 
+# Pinentry for GPG on Mac
+brew "pinentry-mac"
+
 # Improved top (interactive process viewer)
 brew "htop"
 
