@@ -1,12 +1,11 @@
-## where to install homebrew-cask applications
-cask_args appdir: '/Applications'
+cask_args appdir: "/Applications"
 
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/cask-fonts"
+tap "homebrew/cask-versions"
 tap "homebrew/core"
 tap "homebrew/services"
-tap "mas-cli/tap"
 
 # fonts
 cask "font-fira-code"
@@ -59,37 +58,41 @@ brew "fzf"
 
 # Modern replacement for 'ls'
 brew "exa"
-
-# GPU-based terminal emulator
+# brew "syncthing"
+brew "neovim", args: ["HEAD"]
+brew "volta"
 cask "kitty"
-
-# Open-source code editor
 cask "visual-studio-code"
-
-# Web browser
+cask "visual-studio-code-insiders"
 cask "google-chrome"
 cask "brave-browser"
 cask "tor-browser"
 cask "firefox"
-
-# API documentation browser and code snippet manager
+cask "mullvad-browser"
+cask "finicky"
 cask "dash"
-
-# Raspberry Pi Imager
 cask "raspberry-pi-imager"
-
-# vlc
 cask "vlc"
+cask "numi"
+cask "vnc-viewer"
+cask "plex"
+cask "microsoft-teams"
+cask "microsoft-outlook"
+cask "raycast"
+cask "outline-manager"
+cask "meetingbar"
+cask "hammerspoon"
+cask "setapp"
+cask "obsidian"
+brew "cloudflared"
 
-# Mac App Store command-line interface
-brew "mas"
-mas "1Password 7", id: 1333542190
-mas "iMovie", id: 408981434
-mas "Magnet", id: 441258766
-mas "NordVPN", id: 905953485
-mas "Numbers", id: 409203825
-mas "Outline", id: 1356178125
-mas "Slack", id: 803453959
-mas "Tailscale", id: 1475387142
-mas "WireGuard", id: 1451685025
-mas "Xcode", id: 497799835
+brew "xonsh"
+brew "nnn"
+brew "tldr"
+cask "nextcloud"
+cask "steam"
+cask "keybase"
+cask "mattermost"
+brew "wget"
+cask "telegram"
+cask "far2l"
